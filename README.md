@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suman.
 - 🌱 I’m currently learning software and application developmnt
-- 📘 Have Knowledge of fullstack web development
+- 📘 Have Knowledge of android and fullstack web development
 - 📫 developerasteroid@gmail.com
 
 <!---
